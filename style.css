@@ -10,7 +10,9 @@ h1 {
 }
 
 h2 {
-    color: purple;
+    color: body {
+   background-color: #367588; /* Teal Blue */
+}
 }
 
 p {
